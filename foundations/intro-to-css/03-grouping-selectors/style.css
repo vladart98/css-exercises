@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.fe,
+.se {
+    font-family: Helvetica, 
+    "Times New Roman", sans-serif;
+
+    font-size: 28px;
+}
+
+.fe{
+    background-color: black;
+    color: white;
+}
+
+.se {
+    background-color: yellow;
+}
+
